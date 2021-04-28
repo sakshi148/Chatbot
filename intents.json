@@ -44,58 +44,7 @@
                         ],
                         "context_set": ""
                 },
-                {
-                        "tag": "creator",
-                        "patterns": [
-
-                                "what is the name of your developers",
-                                "what is the name of your creators",
-                                "what is the name of the developers",
-                                "what is the name of the creators",
-                                "who created you",
-                                "your developers",
-                                "your creators",
-                                "who are your developers",
-                                "developers",
-                                "you are made by",
-                                "you are made by whom",
-                                "who created you",
-                                "who create you",
-                                "creators",
-                                "who made you",
-                                "who designed you"
-                        ],
-                        "responses": [
-                                "Ankush and Ahraar developed me in oct 2019, for their minor project",
-                                "I was developed by Ahraar and Ankush",
-                                "2 young boys developed me in CBPGEC college, Ankush and Ahraar"
-                        ],
-                        "context_set": ""
-                },
-                {
-                        "tag": "name",
-                        "patterns": [
-                                "name",
-                                "your name",
-                                "do you have a name",
-                                "what are you called",
-                                "what is your name",
-                                "what should I call you",
-                                "whats your name?",
-                                "what are you",
-                                "who are you",
-                                "who is this",
-                                "what am i chatting to",
-                                "who am i taking to",
-                                "what are you"
-                        ],
-                        "responses": [
-                                "You can call me Rawkush.",
-                                "I'm Rawkush",
-                                "I'm Rawkush aka CBPGEC's Chatbot."
-                        ],
-                        "context_set": ""
-                },
+              
                 {
                         "tag": "hours",
                         "patterns": [
@@ -143,7 +92,7 @@
                                 "call"
                         ],
                         "responses": [
-                                "You can contact at +91-011-25318157"
+                                "You can contact at +91-9071123436"
                         ],
                         "context_set": ""
                 },
@@ -173,7 +122,7 @@
                                 "IT"
                         ],
                         "responses": [
-                                "CBPGEC offers Information Technology, Civil Engineering and Mechanical Engineering."
+                                "MITAOE  offers Information Technology,Computer Engineering,Chemical Engineering ,Electonic and Telecommunication,Electical, Civil Engineering and Mechanical Engineering."
                         ],
                         "context_set": ""
                 },
@@ -192,11 +141,13 @@
                                 "how much is the fees",
                                 "fees for first year",
                                 "fees",
+                                "fees for direct second year",
+                                "fee stucture of first year and direct second year",
                                 "about the fees",
                                 "tell me something about the fees"
                         ],
                         "responses": [
-                                "For Fee detail visit <a target=\"_blank\" href=\"http://www.ipu.ac.in/Pubinfo2019/Admission2019mian/adm2019main.htm/\"> here</a>"
+                                "For Fee detail visit <a target=\"_blank\" href=\"https://www.shiksha.com/college/mit-academy-of-engineering-maeer-alandi-pune-24791/courses.htm/\"> here</a>"
                         ],
                         "context_set": ""
                 },
@@ -219,7 +170,7 @@
                                 "location"
                         ],
                         "responses": [
-                                "Ch. Brahm Prakash Government Engineering College, Lal Bagh Jafarpur Village, Delhi, 110073  <a target=\"_blank\" href=\"https://goo.gl/maps/cW8C4LDb81oSicRm6\"> here</a> "
+                                "Dehu Phata, Alandi (D, Maharashtra 412105  <a target=\"_blank\" href=\"https://www.google.com/maps/dir/17.5270032,74.1895566/mit+academy+of+engineering+address+with+google+map/@18.0943723,73.4216754,9z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3bc2c880511d7c35:0xc4e495a8c1f663eb!2m2!1d73.8927428!2d18.6750761"> here</a> "
                         ],
                         "context_set": ""
                 },
@@ -250,7 +201,7 @@
                                 "distance between hostel and college"
                         ],
                         "responses": [
-                                "Ch. Brahm Prakash Government Engineering College does  provide hostel facility"
+                                "MIT acdedemy of engineering ,alandi provide hostel facility for more details you can visit college Website <a target=\"_blank\" href=\"https://www.mitaoe.ac.in/Hostel.php/\"> here " "
                         ],
                         "context_set": ""
                 },
@@ -265,12 +216,16 @@
                                 "Are there any event held at college",
                                 "Events?",
                                 "functions",
+                                "IT department which events organised",
+                                "Comp department which events organised",
+                                "civil department which events organised",
+                                "Chemical department which events organised",
                                 "what are the events",
                                 "tell me about events",
                                 "what about events"
                         ],
                         "responses": [
-                                "proGECtion, Sports Week, Conference and various other event conducted in the college. For more information you can visit college Website <a target=\"_blank\" href=\"http://www.gecdelhi.ac.in/\"> here "
+                                "Sports Week, hackthon,  and various other event conducted in the college. For more information you can visit college Website <a target=\"_blank\" href=\"https://www.mitaoe.ac.in/mitaoe-news-and-event.php/\"> here "
                         ],
                         "context_set": ""
                 },
@@ -308,7 +263,7 @@
                                 "floors"
                         ],
                         "responses": [
-                                "Ch. Brahm Prakash Government Engineering College has total 2 floors "
+                                " There are A , B,C,D,E wings every wing have 3 to 4 floor "
                         ],
                         "context_set": ""
                 },
@@ -324,8 +279,8 @@
                                 "What is next lecture"
                         ],
                         "responses": [
-                                "To know about  syllabus and timetable visit <a target=\"_blank\" href=\"http://www.gecdelhi.ac.in/tt_odd.html/\"> here</a>",
-                                "To know about  syllabus and timetable visit <a target=\"_blank\" href=\"http://www.gecdelhi.ac.in/scheme_ITnew.html/\"> here</a>"
+                                "To know about  syllabus and timetable visit <a target=\"_blank\" href=\"https://www.mitaoe.ac.in/school-of-computer-engineering-and-technology-comp-bachelor-course-structure.php/\"> here</a>"
+                                
                         ],
                         "context_set": ""
                 },
@@ -346,7 +301,8 @@
                                 "how many libraries"
                         ],
                         "responses": [
-                                "There is one library on second floor."
+                                "There is one library on second floor.",
+                                 "To know about  syllabus and timetable visit <a target=\"_blank\" href=\"https://www.mitaoe.ac.in/school-of-computer-engineering-and-technology-comp-bachelor-course-structure.php/\"> here</a>"
                         ],
                         "context_set": ""
                 },
@@ -358,7 +314,7 @@
                                 "college infrastructure"
                         ],
                         "responses": [
-                                "Ch. Brahm Prakash Government Engineering College has Excellent Infrastructure. Campus is clean. Good IT Labs With Good Speed of Internet connection"
+                                "MIT academy of engineering  has Excellent Infrastructure. Campus is clean. Good IT Labs With Good Speed of Internet connection"
                         ],
                         "context_set": ""
                 },
@@ -377,7 +333,7 @@
                                 "Cafetaria"
                         ],
                         "responses": [
-                                "CBPGEC has canteen with variety of food available"
+                                "MIT has canteen with variety of food available"
                         ],
                         "context_set": ""
                 },
@@ -408,7 +364,7 @@
                                 "companies"
                         ],
                         "responses": [
-                                "To know about placement visit <a target=\"_blank\" href=\"http://www.gecdelhi.ac.in/placement1%20first%20page.html/\">here</a>"
+                                "To know about placement visit <a target=\"_blank\" href=\"https://www.shiksha.com/college/mit-academy-of-engineering-maeer-alandi-pune-24791/placement/\">here</a>"
                         ],
                         "context_set": ""
                 },
@@ -421,7 +377,7 @@
                                 "name of it hod"
                         ],
                         "responses": [
-                                "Dr. Pankaj Lathar is IT HOD who is available on Ground floor"
+                                "Dr.Ranjana Badre is IT/Comp HOD who is available on Ground floor"
                         ],
                         "context_set": ""
                 },
